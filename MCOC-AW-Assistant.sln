@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCOC-AW-Assistant", "MCOC-AW-Assistant\MCOC-AW-Assistant.csproj", "{DFE9F0AC-D798-4DB6-9AF9-46CCDB347D18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE9F0AC-D798-4DB6-9AF9-46CCDB347D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE9F0AC-D798-4DB6-9AF9-46CCDB347D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE9F0AC-D798-4DB6-9AF9-46CCDB347D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE9F0AC-D798-4DB6-9AF9-46CCDB347D18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBB6B28B-0709-45FB-98AD-80FB204C2346}
+	EndGlobalSection
+EndGlobal
